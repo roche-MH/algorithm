@@ -61,3 +61,18 @@ def solution(left, right):
 # 효율성 95.1
 ```
 
+```python
+def solution(left, right):
+    answer = [[0 for _ in range(len(left)+1)] for _ in range(len(right)+1)]
+    for i in range(len(right)):
+        for j in range(len(left)):
+            if right[i] < left[j]:
+                answer[i][j] = answer[i-1][j] + right[i]
+            else:
+                if max(answer[i-1][j-1],answer[i][j-1],answer[i][j]) >1:
+                    
+                    answer[i][j] = max(answer[i-1][j-1],answer[i][j-1],answer[i][j])
+    print(answer)
+    return answer[len(left)-1][len(right)-1]
+```
+
