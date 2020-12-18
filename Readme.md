@@ -2,7 +2,7 @@
 
 ## 프로그래머스 level 1
 
-[크레인 인형뽑기게임](https://github.com/roche-MH/algori/blob/master/프로그래머스/프로그래머스 크레인 인형뽑기 게임.md)
+[크레인 인형뽑기게임]()
 [두개 뽑아서 더하기](https://github.com/roche-MH/algori/blob/master)
 [최댓값 구하기](https://github.com/roche-MH/algori/blob/master)
 [완주하지 못한선수](https://github.com/roche-MH/algori/blob/master)
@@ -47,8 +47,8 @@
 
 ## Level 2
 
-[124 나라의 숫자](https://github.com/roche-MH/algori/blob/master/프로그래머스/프로그래머스 124 나라의 숫자.md)
-[주식가격](https://github.com/roche-MH/algori/blob/master/프로그래머스/프로그래머스 주식가격.md)
+[124 나라의 숫자]()
+[주식가격]()
 [다리를 지나는 트럭](https://github.com/roche-MH/algori/blob/master)
 [프린터](https://github.com/roche-MH/algori/blob/master)
 [멀쩡한 사각형](https://github.com/roche-MH/algori/blob/master)
