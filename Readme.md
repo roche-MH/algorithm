@@ -8,6 +8,7 @@ algorithms
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python3](https://github.com/roche-MH/algori/blob/master/Leetcode/Add%20Two%20Numbers.py) | Medium     |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [python3](https://github.com/roche-MH/algori/blob/master/Leetcode/Longest%20Substring%20Without%20Repeating%20Characters.py) | Medium     |
 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [python3](https://github.com/roche-MH/algori/blob/master/Leetcode/Median%20of%20Two%20Sorted%20Arrays.py) | Hard       |
+| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [python3](https://github.com/roche-MH/algori/blob/master/Leetcode/Longest%20Palindromic%20Substring.py) | Medium       |
 
 bash
 
