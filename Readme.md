@@ -11,6 +11,7 @@ algorithms
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [python3](https://github.com/roche-MH/algori/blob/master/Leetcode/Longest%20Palindromic%20Substring.py) | Medium       |
 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [python3](https://github.com/roche-MH/algori/blob/master/Leetcode/Reformat%20Phone%20Number.py) | Easy       |
 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [python3](https://github.com/roche-MH/algori/blob/master/Leetcode/Maximum%20Erasure%20Value.py) | Medium       |
+| [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [python3](https://github.com/roche-MH/algori/blob/master/Leetcode/ZigZag%20Conversion.py) | Medium       |
 
 bash
 
